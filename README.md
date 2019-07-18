@@ -26,6 +26,9 @@ HOW TO USE:
 Inside main.py file mention the path of the video file to path variable.
 
 ---Provide threshold values as input----
+
+Inside readFromFile():
+
 Provide value to light_min_thresh variable (this is 1 unit of light ON time. And this value will vary depending upon your video.)
 
 Provide values to dark_min_thresh, dark_med_thresh, dark_max_thresh (these are units of light OFF time. These stand for inter-charcater gap. inter-word gap and inter-sentence gap respectively.And these values will vary depending upon your video. )
