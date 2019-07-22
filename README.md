@@ -39,7 +39,7 @@ Provide values to dark_min_thresh, dark_med_thresh, dark_max_thresh (these are u
 If you are not sure what the threshold values should be, keep the default values and execute the code. And the observe the output of "light times" list and "dark times" list. It will give you an idea for the threshold values. Provide the updated threshold values and re execute teh code to get the correct morse code message and the decoded message.
 
 
-1. Inside readFromLiveFeed():
+2. Inside readFromLiveFeed():
 
 Mention the path of the video file to path variable.
 
